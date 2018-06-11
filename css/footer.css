@@ -1,0 +1,39 @@
+footer{
+	background: #576168;
+	text-align: center;
+
+
+}
+
+footer p{
+	text-align: justify;
+	color: #acd4b4;
+		margin: 20px;
+	padding: 0px;
+
+
+}
+
+footer h3{
+	color: #f48e6a;
+	margin: 20px;
+	padding: 0px;
+
+}
+
+ul.redessociales li{
+	display: inline-block;
+}
+
+.logo{
+	width: 80px;
+	height: 80px;
+	border:3px solid #3a8d89;
+	border-radius: 50px;
+	float: left;
+    
+}
+
+ul.iconos li{
+	display: inline-block;
+
